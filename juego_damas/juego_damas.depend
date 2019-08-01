@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1564690666 source:c:\users\manuel ortiz\desktop\proyecto_manuel\juego_damas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1564690714 source:c:\users\manuel ortiz\desktop\proyecto_manuel\juego_damas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
